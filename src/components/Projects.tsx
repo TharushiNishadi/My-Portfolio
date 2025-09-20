@@ -71,7 +71,7 @@ const Projects: React.FC = () => {
         '/FootWear/SOP3.png',
         '/FootWear/SOP4.png',
       ],
-      githubLink: 'https://github.com/nishadi/footwear-management-system',
+      githubLink: 'https://github.com/TharushiNishadi/Footwear-Management-System',
     },
     {
       id: 4,
@@ -86,7 +86,7 @@ const Projects: React.FC = () => {
         '/Bakeryshop/BP3.png',
         '/Bakeryshop/BP4.png',
       ],
-      githubLink: 'https://github.com/nishadi/bakery-shop-app',
+      githubLink: 'https://github.com/TharushiNishadi/The-Bakery-Shop-System',
     },
     {
       id: 5,
