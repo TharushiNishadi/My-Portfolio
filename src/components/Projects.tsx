@@ -56,7 +56,7 @@ const Projects: React.FC = () => {
         '/AuraFashion/FP3.png',
         '/AuraFashion/FP4.png',
       ],
-      githubLink: 'https://github.com/nishadi/aura-fashion',
+      githubLink: 'https://github.com/TharushiNishadi/aura-fashion-main',
     },
     {
       id: 3,
@@ -101,7 +101,7 @@ const Projects: React.FC = () => {
         '/SavoyCinema/WP3.png',
         '/SavoyCinema/WP4.png',
       ],
-      githubLink: 'https://github.com/nishadi/savoy-cinema',
+      githubLink: 'https://github.com/TharushiNishadi/Savoy-Cinema-Online-Ticket-Booking-System',
     }, 
   ];
 
